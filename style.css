@@ -1,0 +1,95 @@
+#header{
+    width: 100%;
+    height: 60px;
+}
+#menubar li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 30px;
+    
+
+}
+#menubar a{
+    text-decoration: none;
+    color: black;
+    
+
+}
+#menubar ul{
+    float: right;
+}
+#menubar p{
+    font-size: 20px;
+}
+#banner{
+        background-image: linear-gradient(to right, #8b45f3, #ac59e9);
+        height: 450px;
+}
+#continer1 h5{
+    padding-top: 50px;
+    padding-left: 250px;
+    color: white;
+    margin-bottom: 50px;
+}
+#continer1 h2{
+    padding-left:250px ;
+    color: white;
+    margin-bottom: 25px;
+}
+#continer1 p{
+    padding-left: 250px;
+    color: white;
+}
+#banner img{
+    float: right;
+    margin-right: 50px;
+   margin-top: 19px;
+}
+#continer2{
+    width: 80%;
+    margin: 0 auto;
+}
+#img1 img{
+    width: 991px;
+    height: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+}
+
+#continer3{
+    width: 70%;
+    margin: 0 auto;
+
+}
+#box1{
+    height: 200px;
+    width: 60%;
+
+    float: left;
+}
+#box2{
+    height: 200px;
+    width: 40%;
+    
+    float: right;
+}
+#box2 img{
+    width: 350px;
+    height: 350px;
+}
+#logo{
+    width: 30%;
+    float: left;
+    padding-top: 20px;
+
+
+
+}
+#menu{
+    width: 70%;
+    float: right;
+}
+#logo a{
+    font-size: 22px;
+}
+
